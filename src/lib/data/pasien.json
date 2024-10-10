@@ -1,0 +1,94 @@
+
+[
+    {
+      "nama": "Santoso Ibadul Alim",
+      "rekam_medis": "1721618463",
+      "ktp": "3522062204860003",
+      "tanggal_lahir": "1998-02-10",
+      "jenis_kelamin": "Laki-laki",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Agus Jatmiko",
+      "rekam_medis": "1720696038",
+      "ktp": "3521061604960003",
+      "tanggal_lahir": "1993-08-10",
+      "jenis_kelamin": "Laki-laki",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Suyati Shinka Amarta",
+      "rekam_medis": "1720697007",
+      "ktp": "3521066044080003",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Perempuan",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Winda Kusmiati Aldianti",
+      "rekam_medis": "1720697361",
+      "ktp": "3519012104890001",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Perempuan",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Ana Andriani",
+      "rekam_medis": "1720697687",
+      "ktp": "3519012102890001",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Perempuan",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Sulaiman Hakam",
+      "rekam_medis": "1720697782",
+      "ktp": "3519012102890002",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Laki-laki",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Dadang Sudana",
+      "rekam_medis": "1720697834",
+      "ktp": "3519012104890001",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Laki-laki",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Indra Bachtiar",
+      "rekam_medis": "1720697988",
+      "ktp": "3519012102890001",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Laki-laki",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Wardono",
+      "rekam_medis": "1720697938",
+      "ktp": "3539012104890001",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Laki-laki",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    },
+    {
+      "nama": "Lia Sinta",
+      "rekam_medis": "1720698102",
+      "ktp": "3519012104890001",
+      "tanggal_lahir": "2001-07-10",
+      "jenis_kelamin": "Perempuan",
+      "pendidikan": "SLTA sederajat",
+      "status": ""
+    }
+  ]
+  
